@@ -1,2 +1,3 @@
-# Repositório do Desafio de Projeto Git/GitHub da DIO
-Respositório criado para o desafio de projeto da DIO sobre github
+# Repositório para desafios e projetos da Geração Tech Unimed-BH - Ciência de Dados
+
+Respositório criado para o depósito de desafios e projetos do Bootcamp Geração Tech Unimed-BH - Ciência de Dados da DIO.
